@@ -1,7 +1,6 @@
 # damage-calc
-
-<!-- 追加(バッジ(Badge) という CI ツールのジョブやテストの結果を表示するアイコンを表示) -->
 ![](https://github.com/yamaAo0130/workflows/damage-calc-4005-gh-actions/badge.svg)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
