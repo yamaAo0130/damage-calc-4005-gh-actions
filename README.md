@@ -1,4 +1,7 @@
 # damage-calc
+
+<!-- 追加(バッジ(Badge) という CI ツールのジョブやテストの結果を表示するアイコンを表示) -->
+![](https://github.com/yamaAo0130/workflows/damage-calc-4005-gh-actions/badge.svg)
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
@@ -38,4 +41,3 @@ console.log(dc.effectiveDamage(100, 50, 30));
 小数点以下の四捨五入の結果、ダメージの 83 の値が得られます。
 
 
-![](https://github.com/yamaAo0130//workflows/damage-calc-4005-gh-actions/badge.svg)
